@@ -7,7 +7,7 @@ tool_autoclip.py [-ext <type of image:jpg|png...>] <path of image>
 ```
 **Results**
 1. Before
-![image](https://github.com/chenhaox/Autoclip-Python-Script/blob/main/before_remove.png =100X100)
+![image](https://github.com/chenhaox/Autoclip-Python-Script/blob/main/before_remove.png)
 2. After Remove
 ![image](https://github.com/chenhaox/Autoclip-Python-Script/blob/main/after_remove.jpg)
 ---
