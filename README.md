@@ -3,7 +3,7 @@ The script to automatically remove the spacing of images in a folder.
 
 **Instructions**:
 ```
-tool_autoclip.py [-ext <type of image:jpg|png...>] <path of image>
+tool_autoclip.py [-ext <type of image:.jpg|.png..., default:.png>] <path of image>
 ```
 **Results**
 1. Before
