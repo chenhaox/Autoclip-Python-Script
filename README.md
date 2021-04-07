@@ -14,8 +14,9 @@ tool_autoclip.py [-ext <type of image:.jpg|.png..., default:.png>] <path of imag
 
 # Add the script into terminal(Ubuntu)
 
-1. Find out where your python is in terminal:
+1. Make the script executable and find out where your python is in terminal:
 ```
+chmod +x <path of the script>
 which python3.7
 /usr/bin/python3.7
 ```
@@ -30,7 +31,7 @@ vi ~/.bashrc
 ```
 Add the file:
 ```
-export PATH=$PATH: <path of the script>
+export PATH=$PATH: <path of the script's folder>
 ```
 Save it out, re apply the .bashrc, and retry
 ```
